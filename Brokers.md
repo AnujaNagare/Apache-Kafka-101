@@ -1,0 +1,2 @@
+- Apache Kafka is composed of a network of machines called brokers
+- In a contemporary deployment, these may not be separate physical servers but containers running on pods running on virtualized servers running on actual processors in a physical datacenter somewhere
